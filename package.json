@@ -2,6 +2,7 @@
   "name": "wc-minimap",
   "module": "wc-minimap.js",
   "type": "module",
+  "version": "0.1.0",
   "scripts": {
     "dev": "web-dev-server --watch --app-index=test-page.html"
   },

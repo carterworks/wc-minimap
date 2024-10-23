@@ -18,7 +18,7 @@ Mobile view:
 
 ```html
 <!-- Somewhere… -->
-<script src="wc-minimap.js"></script>
+<script src="https://unpkg.com/wc-minimap@latest/wc-minimap.js"></script>
 <!-- Somewhere else… -->
 <wc-minimap
     data-article-selector="article"

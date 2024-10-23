@@ -1,8 +1,16 @@
 {
   "name": "wc-minimap",
-  "module": "wc-minimap.js",
+  "description": "A minimap for your article! As a web component!",
+  "homepage": "https://github.com/carterworks/wc-minimap",
+  "bugs": "https://github.com/carterworks/wc-minimap/issues",
+  "repository": "github:carterworks/wc-minimap",
+  "exports": {
+    ".": "./wc-minimap.js"
+  },
+  "author": "Carter McBride",
+  "license": "MIT",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "dev": "web-dev-server --watch --app-index=test-page.html"
   },

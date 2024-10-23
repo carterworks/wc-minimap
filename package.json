@@ -1,0 +1,14 @@
+{
+  "name": "wc-minimap",
+  "module": "wc-minimap.js",
+  "type": "module",
+  "scripts": {
+    "dev": "web-dev-server --watch --app-index=test-page.html"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -209,7 +209,7 @@ a {
 	text-decoration: none;
 	color: inherit;
 }
-@media (min-width: 768px) {
+@media (width >= 64rem) {
 	ol {
 		flex-direction: column;
 	}
